@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://engiepaej.pubsubsql.com/sitemap.xml
